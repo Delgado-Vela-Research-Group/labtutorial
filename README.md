@@ -1,0 +1,3 @@
+Learning how to effectively use GitHub for storing and managing our code. This will prepare us for collaborative projects in the future. 
+Taking advantage of version control, allowing us to track changes, manage different versions of our projects...
+Sharing our work, review each other's code, and integrate contributions
